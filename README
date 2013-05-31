@@ -1,0 +1,12 @@
+h1. Grunt-test
+
+====================
+
+This is grunt test sample.
+
+You can git clone to your repo and execute the following instruction.
+
+npm install .
+
+grunt
+
